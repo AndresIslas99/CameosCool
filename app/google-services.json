@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "58992453614",
+    "firebase_url": "https://cameo-61b90-default-rtdb.firebaseio.com",
+    "project_id": "cameo-61b90",
+    "storage_bucket": "cameo-61b90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58992453614:android:19123081d257b3970590ff",
+        "android_client_info": {
+          "package_name": "edu.itesm.pokedex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58992453614-b83tgvcb33cnvknk4nod41nub3g643q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7l3lTuOjHFNRG4S86rHVdovrovGl-k5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58992453614-b83tgvcb33cnvknk4nod41nub3g643q8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
