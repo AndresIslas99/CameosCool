@@ -65,7 +65,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    public fun getCameos(view: View) {
+    public fun getCameo(view: View) {
         startActivity(Intent(this,CameoActivity::class.java))
     }
 
